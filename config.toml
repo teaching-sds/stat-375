@@ -1,0 +1,121 @@
+title = "Teaching Statistics and Data Science"
+baseURL = "https://hugo-apero-docs.netlify.app/"
+languageCode = "en-us"
+theme = "hugo-apero"
+author = "Andrew Bray"
+copyright = ""
+googleAnalytics = ""
+disqusShortname = ""
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;" # ↩
+paginate = 50
+preserveTaxonomyNames = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+enableEmoji = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+    hardwraps = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+    ordered = false
+  [markup.highlight]
+    # one of: https://xyproto.github.io/splash/docs/
+    style = ""
+    falseClasses = false
+    
+[params]
+  description = "Course website for Teaching Statistics and Data Science at UC Berkeley."
+  custom_theme = ""
+  customheadingFontFamily = ""
+  customtextFontFamily = ""
+  favicon = "/img/favicon.ico"
+  logo = "/img/stat-375-hex.png"
+  mainSections = ["blog", "project", "talk"]
+  navallcaps = true
+  orgName = "Andrew Bray"
+  sharing_image = "/img/papillons.jpg"
+  socialInFooter = true
+  socialInHeader = false
+
+  # use a built-in color theme
+  # one of: forest / grayscale / peach / plum /
+  #         poppy / sky / violet / water
+  theme = ""
+
+  # or, leave theme empty & make your own palette
+  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
+  # the custom scss file must be in the assets/ folder
+  # add the filename name here, without extension
+  # to use hex colors instead of named tachyons colors, include "hex" in filename
+  custom_theme = "garrick-hex"
+  show_post_thumbnail = false
+
+  # use an embedded font-family
+  # serif options: Fraunces / EB Garamond / Bitter
+  # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
+  # if you import your own fonts, name them here too
+  customtextFontFamily = ""
+  customheadingFontFamily = ""
+  # alternatively, leave empty and select basic font options: sans-serif or serif
+  # for more http://tachyons.io/docs/typography/font-family/
+  textFontFamily = "sans-serif"
+  headingFontFamily = "avenir"
+
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/teaching-sds"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[menu]
+  [[menu.footer]]
+    name = "License"
+    title = "License"
+    url = "/license/"
+    weight = 1
+  [[menu.header]]
+    name = "Syllabus"
+    title = "Syllabus"
+    url = "/syllabus/"
+    weight = 4
+  [[menu.header]]
+    name = "Course Materials"
+    title = "Materials for each class session"
+    url = "/materials/"
+    weight = 6
+  [[menu.header]]
+    name = "Elements"
+    title = "Elements Page"
+    url = "/elements/"
+    weight = 7
+
+# see https://gohugo.io/about/hugo-and-gdpr/
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
