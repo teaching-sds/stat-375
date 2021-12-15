@@ -29,8 +29,6 @@ enableEmoji = true
     
 [params]
   description = "Course website for Teaching Statistics and Data Science at UC Berkeley."
-  customheadingFontFamily = ""
-  customtextFontFamily = ""
   favicon = "/img/favicon.ico"
   logo = "/img/stat-375-hex.png"
   mainSections = ["blog", "project", "talk"]
