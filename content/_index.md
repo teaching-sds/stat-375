@@ -1,19 +1,16 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: Read Syllabus &rarr;
+action_link: /syllabus
 action_type: text
-description: Welcome to the documentation site for the Hugo Apéro (*a-pay-ROH*) theme!
-  Inside, you'll find how to get started building a new site with this theme. You'll
-  learn a bit about Hugo, and a lot about what makes this theme unique and, we hope,
-  fun to get to know. Bon apéro!
+description: A course in pedagogy for students new to teaching Statistics and Data Science at UC Berkeley.
 image_left: false
 images:
-- img/voir.jpg
+- img/stat-375-hex.png
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: STAT 375, UC Berkeley
 text_align_left: true
-title: Hugo Apéro
+title: Teaching Statistics and Data Science
 ---
 
 ** index doesn't contain a body, just front matter above.
