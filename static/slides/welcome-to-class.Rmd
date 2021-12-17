@@ -10,6 +10,7 @@ output:
       highlightStyle: atelier-forest-light
       highlightLines: true
       highlightSpans: true
+      ratio: 16:9
       countIncrementalSlides: false
 ---
 

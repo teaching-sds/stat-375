@@ -22,11 +22,9 @@ knitr::opts_chunk$set(message = FALSE,
 
 library(tidyverse)
 library(emo)
-library(lorem)
-library(xaringanthemer)
 library(xaringanExtra)
+library(xaringanthemer)
 library(countdown)
-#source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xaringan-theme.R")
 xaringanExtra::use_panelset()
 ```
 
