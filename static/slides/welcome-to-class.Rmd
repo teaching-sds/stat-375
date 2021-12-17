@@ -1,0 +1,85 @@
+---
+title: "Welcome to class"
+author: "STAT 375 UC Berkeley"
+output:
+  xaringan::moon_reader:
+    lib_dir: "assets/libs"
+    css:
+      - assets/css/xaringan-themer.css
+    nature:
+      highlightStyle: atelier-forest-light
+      highlightLines: true
+      highlightSpans: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message = FALSE, 
+                      fig.align = "center",
+                      fig.retina = 3,
+                      warning = FALSE)
+
+library(tidyverse)
+```
+
+
+# While you're waiting
+
+> Try to sit 4 to a table
+
+> Write down one question that you're wondering about going into your first full week of teaching
+
+
+---
+# Meet your group
+
+- At your tables, take turns introducing yourselves and sharing:
+  - Your name and preferred pronouns
+  - Your year and major
+  - What class you are teaching
+  - Memory of your best teacher and what made them so effective
+  
+- You have 8 minutes
+
+---
+# Community Standards
+
+1. Three adjectives that describe a class environment is **conducive** to everyone learning
+2. Three adjectives that describe a class environment that is **not conducive** to everyone learning
+3. Three standards our class can uphold in pursuit of the former
+
+---
+class: middle, center
+
+# Critique
+
+---
+
+What worked? What didn't? How can we change it?
+
+.pull-left[
+### Meet your group
+- What was the goal?
+- How big should the groups be?
+- Which questions?
+
+### Introductions
+- How personal should you be?
+]
+
+.pull-right[
+### Syllabus
+- What were your main takeaways?
+- How else could this information be presented?
+
+### Community Standards
+- What was the feel of the group discussion?
+- Was everyone participating?
+]
+
+---
+class: middle, centers
+# Panel
+
+
+
