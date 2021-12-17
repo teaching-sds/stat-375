@@ -6,4 +6,4 @@ This repository contains all of the course materials for STAT 375 as well as the
 
 ### Accessing the course materials
 
-The course materials live in two places. _Assignments_, _lesson plans_, and the _syllabus_ are in `/contents/`. Course materials such as _slides_ and _handouts_ are in `/static/`.
+The course materials live in two places. Assignments, lesson plans, and the syllabus are in `/contents/`. Course materials such as slides and handouts are in `/static/`.
