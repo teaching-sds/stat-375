@@ -1,5 +1,5 @@
 title = "Teaching Statistics and Data Science"
-baseURL = "https://hugo-apero-docs.netlify.app/"
+baseURL = "https://boring-benz-9a1961.netlify.app/"
 languageCode = "en-us"
 theme = "hugo-apero"
 author = "Andrew Bray"
