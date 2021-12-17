@@ -1,9 +1,9 @@
 ---
 title: Course Materials
 description: |
-  
+  Learning objectives, preparation, reflection, slides, and other materials related to teach course topic.
 author: "Andrew Bray"
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true
 show_author_byline: false
 show_post_date: false
@@ -37,7 +37,6 @@ cascade:
   # for single-sidebar layout
   # layout: single-sidebar
   sidebar:
-    title: How there
     text_link_label: View recent talks
     text_link_url: /talk/
     show_sidebar_adunit: false # show ad container

@@ -3,28 +3,42 @@ title: "How to Teach Without Lecturing"
 author: "Andrew Bray"
 subtitle: "While lecturing is the most common mode of instruction, it is known to have serious weaknesses. Alternatives that require students to be actively involved in the classroom environment are effective additions to the teacher's toolbox."
 summary: "While lecturing is the most common mode of instruction, it is known to have serious weaknesses. Alternatives that require students to be actively involved in the classroom environment are effective additions to the teacher's toolbox."
-image:
-  caption: '[2021 AMIA Informatics Summit Podium Presentation](bit.ly/AMIA-sickle-cell)'
-  focal_point: center
-  preview_only: no
 #slides: ''
 #projects: []
-links:
-- icon: images
-  icon_pack: fas
-  name: slides
-  url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
+# links:
+# - icon: images
+#   icon_pack: fas
+#   name: slides
+#   url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
 ---
 
 ### Learning Objectives
 
-This study investigates the effect of sickle cell trait and sickle cell disease, on adverse pregnancy outcomes at Penn Medicine. The risk of a Cesarean section (C-section), preterm birth, stillbirth, pain crisis, blood transfusion, and hemorrhage during delivery were all found to be significantly correlated with race/ethnicity, sickle cell disease, the number of pain crises before delivery, and the number of blood transfusions before delivery. Multiple birth was also found to significantly increase the risk of these same outcomes.
+1. Explain what the evidence shows regarding learning outcomes of active versus lecture-based learning.
+2. 
+3. Carry out the protocol of at least one active learning strategy in your own classroom.
 
 ### Preparation
 
+Read this [Washington Post article](https://www.washingtonpost.com/news/answer-sheet/wp/2017/07/11/it-puts-kids-to-sleep-but-teachers-keep-lecturing-anyway-heres-what-to-do-about-it/) and post a follow-up comment on the class forum. Here are some guiding questions:
+
+- Do you agree with the sentiment of this piece? Have you ever been in a class where lecture was completely ineffective?
+- Can you offer a counterexample—are there situations where lecture is actually valuable and effective?
+- Have you ever been in a class that is not lecture-based? What are some strategies you might suggest for successful alternative teaching strategies?
 
 ### Reflection
 
+1. Select an active learning protocol to implement in your next class: Peer Instruction, Think-Pair-Share, Purposeful Question, Quick Write, Other...
+
+2. Write a detailed description of how you will facilitate it, including
+    - the concept question / prompt
+    - timing of each element
+    - precisely what students will be asked to do
+    - how groups will be formed
+
+3. Reflect on how it went
+    - how did it feel to facilitate?
+    - in what ways was it effective/ineffective?
 
 ### Slides
 
