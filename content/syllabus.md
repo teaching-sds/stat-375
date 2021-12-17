@@ -2,10 +2,14 @@
 title: "Syllabus"
 subtitle: "STAT 375, UC Berkeley, Spring 2022"
 slug: syllabus
-layout: single-sidebar
 hide_details: true
 show_title_as_headline: true
-draft: false
+#draft: false
+sidebar:
+  title: Course Materials
+  description: |
+    Lesson plans, assignments, and slides corresponding to class each week.
+  show_sidebar_adunit: false
 ---
 
 The primary goal of this course is to prepare first-time GSI appointments with the skills and resources to become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?

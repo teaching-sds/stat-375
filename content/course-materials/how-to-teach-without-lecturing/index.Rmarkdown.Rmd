@@ -1,0 +1,35 @@
+---
+title: "How to Teach Without Lecturing"
+author: "Andrew Bray"
+subtitle: "While lecturing is the most common mode of instruction, it is known to have serious weaknesses. Alternatives that require students to be actively involved in the classroom environment are effective additions to the teacher's toolbox."
+summary: "While lecturing is the most common mode of instruction, it is known to have serious weaknesses. Alternatives that require students to be actively involved in the classroom environment are effective additions to the teacher's toolbox."
+image:
+  caption: '[2021 AMIA Informatics Summit Podium Presentation](bit.ly/AMIA-sickle-cell)'
+  focal_point: center
+  preview_only: no
+#slides: ''
+#projects: []
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: bit.ly/AMIA-sickle-cell
+---
+
+### Learning Objectives
+
+This study investigates the effect of sickle cell trait and sickle cell disease, on adverse pregnancy outcomes at Penn Medicine. The risk of a Cesarean section (C-section), preterm birth, stillbirth, pain crisis, blood transfusion, and hemorrhage during delivery were all found to be significantly correlated with race/ethnicity, sickle cell disease, the number of pain crises before delivery, and the number of blood transfusions before delivery. Multiple birth was also found to significantly increase the risk of these same outcomes.
+
+### Preparation
+
+
+### Reflection
+
+
+### Slides
+
+```{r echo=FALSE}
+xaringanExtra::embed_xaringan(
+  "https://spcanelon.github.io/2021-AMIA-sickle-cell",
+  ratio = "16:9")
+```

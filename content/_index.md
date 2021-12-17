@@ -1,16 +1,20 @@
 ---
+title: Teaching Statistics and Data Science
+description: A course in pedagogy for students new to teaching Statistics and Data Science at UC Berkeley.
+subtitle: STAT 375, UC Berkeley
+images:
+- img/stat-375-hex.png
+text_align_left: true
+image_left: false
+show_action_link: true
+show_social_links: true
 action_label: Read Syllabus &rarr;
 action_link: /syllabus
 action_type: text
-description: A course in pedagogy for students new to teaching Statistics and Data Science at UC Berkeley.
-image_left: false
-images:
-- img/stat-375-hex.png
-show_action_link: true
-show_social_links: true
-subtitle: STAT 375, UC Berkeley
-text_align_left: true
-title: Teaching Statistics and Data Science
+show_featured: true
+number_featured: 3
+use_featured: true
+type: home
 ---
 
 ** index doesn't contain a body, just front matter above.
