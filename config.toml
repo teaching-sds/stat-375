@@ -75,9 +75,9 @@ enableEmoji = true
 
 [menu]
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
+    name = "Made with help"
+    title = "Made with help"
+    url = "/colophon/"
     weight = 1
   [[menu.header]]
     name = "Syllabus"
