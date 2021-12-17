@@ -30,6 +30,6 @@ This study investigates the effect of sickle cell trait and sickle cell disease,
 
 ```{r echo=FALSE}
 xaringanExtra::embed_xaringan(
-  "https://spcanelon.github.io/2021-AMIA-sickle-cell",
+  "https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing",
   ratio = "16:9")
 ```
