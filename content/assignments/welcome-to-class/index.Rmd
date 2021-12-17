@@ -1,0 +1,30 @@
+---
+title: 'HW 1: Welcome to class'
+date: '2021-11-02'
+featured: true
+# description: >
+#   While the lecture is the most common form of instruction, the most effective forms expect the students to be more actively involved in the classroom environment.
+excerpt: ""
+---
+
+### Part 1 - Teaching Observation Debrief Reflection
+
+Now that you've had the opportunity to debrief with your partner about your teaching observation, this assignment asks you to reflect on the process. Here are some guiding questions:
+
+- What were the main areas of improvement that were suggested by your partner?
+
+- Is there anything your partner noted about your teaching that you were surprised by or previously unaware of?
+
+- Recall that you started this process by thinking of a "focus question"—what will your focus question be for the next round of observations? How will you address the suggestions you received from your observation?
+
+Please answer here on bCourses in ~2 paragraphs.
+
+### Part 2 - Reading for the week
+
+In addition, please read this [Washington Post article](https://www.washingtonpost.com/news/answer-sheet/wp/2017/07/11/it-puts-kids-to-sleep-but-teachers-keep-lecturing-anyway-heres-what-to-do-about-it/) and post a follow-up comment on Ed. Here are some guiding questions:
+
+1. Do you agree with the sentiment of this piece? Have you ever been in a class where lecture was completely ineffective?
+
+2. Can you offer a counterexample—are there situations where lecture is actually valuable and effective?
+
+3. Have you ever been in a class that is not lecture-based? What are some strategies you might suggest for successful alternative teaching strategies?
