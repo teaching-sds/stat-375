@@ -13,7 +13,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: bit.ly/AMIA-sickle-cell
+  url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
 ---
 
 ### Learning Objectives
