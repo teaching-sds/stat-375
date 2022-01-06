@@ -1,6 +1,6 @@
 ---
 title: Teaching Statistics and Data Science
-description: A course in pedagogy for students new to teaching Statistics and Data Science at UC Berkeley.
+description: A course in pe da gogy for students new to teaching Statistics and Data Science at UC Berkeley.
 subtitle: STAT 375, UC Berkeley
 images:
 - img/stat-375-hex.png
