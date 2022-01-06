@@ -1,7 +1,7 @@
 ---
 title: 'HW 3: How to 2'
-#publishdate: "2022-01-05T20:45:00"
-#date: "2022-01-05T20:45:00"
+publishdate: "2022-01-05T20:50:00"
+date: "2022-01-05T20:50:00"
 featured: true
 description: >
   While the lecture is the most common form of instruction, the most effective forms expect the students to be more actively involved in the classroom environment.
