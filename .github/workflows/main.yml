@@ -1,8 +1,8 @@
-name: CI
+name: Trigger site rebuild hourly
 
 on:
   schedule:
-    - cron: "021 20 * * *"
+    - cron: "32 * * * *"
 
 jobs:
   build:
