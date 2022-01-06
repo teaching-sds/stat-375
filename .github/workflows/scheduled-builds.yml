@@ -1,8 +1,8 @@
-name: Trigger site rebuild hourly
+name: Trigger site rebuild daily
 
 on:
   schedule:
-    - cron: "32 * * * *"
+    - cron: "11 12 * * *"
 
 jobs:
   build:
