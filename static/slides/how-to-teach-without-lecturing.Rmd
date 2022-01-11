@@ -32,7 +32,7 @@ xaringanExtra::use_panelset()
 .pull-left[
 Most discussion sections at Cal take some version of the form:
 
-1. GSI gives Mini-Lecture
+1. GSI gives mini-lecture
 2. Students work on practice problems
 3. GSIs go over answers
 
