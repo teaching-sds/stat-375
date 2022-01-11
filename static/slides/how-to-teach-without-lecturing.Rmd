@@ -36,7 +36,7 @@ Most discussion sections at Cal take some version of the form:
 2. Students work on practice problems
 3. GSIs go over answers
 
-As a GSI and as a student, please think through at least two ways that you've seen step 2 fail. Enter your response on the padlet linked at `bit.ly/3pxnBeQ`.
+As a GSI and as a student, please think through at least two ways that you've seen step 2 fail. Enter your response on the padlet linked at `bit.ly/3pxnBeQ`. 
 ]
 
 .pull-right[
